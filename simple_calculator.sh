@@ -5,7 +5,6 @@
 a=$1
 b=$2
 op=$3
-resultat=$1 $2 $3
 
 read a b op
 
@@ -20,4 +19,5 @@ elif [ "$op" = "/" ]; then
 fi
 
 echo "le resultat est : $resultat"
+
 exit 0
