@@ -3,6 +3,6 @@
 #df: la commande df affiche l'utilisation de l'espace du disk
 #-h: cette commande quant elle permet de rendre la sortie d'une façon lisible 
 
-echo "utilisation du disk :"
+echo "utilisation du disk:"
 
 df -h
